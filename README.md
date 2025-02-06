@@ -5,3 +5,5 @@ AWS Class 4 & 5 ===> Git notes with GitHub.
 
 
  hey i connect to jenkins And now i inetegrated with github
+
+ git intergration with jenkins
